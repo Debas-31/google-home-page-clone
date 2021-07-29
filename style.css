@@ -169,3 +169,34 @@ body{
     padding: .5rem 2.5rem;
     background: #f2f2f2;
 }
+
+/* Footer section */
+
+footer{
+    background: #f2f2f2;
+}
+
+.footer-content{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 0;
+    background: #f2f2f2;
+    position: sticky;
+}
+
+.footer .footer-left,.footer .footer-right{
+display: flex;
+gap: 2rem;
+}
+
+.footer-link{
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: normal;
+    color: rgb(112, 117, 122);
+}
+
+.footer-link:hover{
+    text-decoration: underline;
+}
