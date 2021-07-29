@@ -10,7 +10,7 @@ A project from Odin web development courses.
 
 ### Live Demo
 
-[Visit the Live Demo](https://debas-31.github.io/e-financial/)
+[Visit the Live Demo](https://debas-31.github.io/google-home-page-clone/)
 
 ### Authors
 
