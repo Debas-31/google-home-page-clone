@@ -1,0 +1,65 @@
+/* clear the default box model */
+*,
+::before,
+::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: arial, sans-serif;
+}
+
+.container{
+    max-width: 1286px;
+    margin: 0 auto;
+}
+
+/* Navigation bar */
+
+#navbar{
+    display: flex;
+    justify-content: flex-end;
+    gap: 1rem;
+    padding: 1rem 1rem 0 0;
+    align-items: center;
+}
+
+#navbar .nav-link {
+    color: #333;
+    Font: arial, sans-serif; 
+    Font-size: 13px;
+    font-weight: 400;
+    Line-height: 24px;
+    color: rgba(0, 0, 0, 0.87);
+    text-decoration: none;
+}
+#navbar .apps-icon img {
+    color: #333;
+    opacity: 0.5;
+    text-decoration: none;
+}
+
+#navbar .size img{
+    width: 36px;
+    border-radius: 50%;
+}
+
+#navbar .nav-link:hover{
+    text-decoration: underline;
+}
+
+#navbar .apps-icon:hover {
+    background: #f4f4f4;
+    border-radius: 50%;
+    padding: .25rem .25rem 0 .25rem;
+}
+
+#navbar .size img:hover{
+    background: #f4f4f4;
+    border-radius: 50%;
+    padding: .35rem;
+    
+} 
+ /* Main section */
