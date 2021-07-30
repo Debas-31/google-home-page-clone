@@ -1,6 +1,6 @@
 <h1> Google Home Page Clone</h1>
 A project from Odin web development courses.
-![google-home-page](https://user-images.githubusercontent.com/65129228/127567982-c68ff6af-0328-4fd8-b5d1-b3ecb653a694.PNG)
+<img src = "./img/google-home-page.PNG">
 
 
 ### Built With

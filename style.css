@@ -130,9 +130,7 @@ body{
 }
 
 .button .btn-search:hover, .button .btn-feel:hover{
-    box-shadow: #cecdcd;
-    border: 1px solid rgb(163, 162, 162);
-    display: inline-block;
+    box-shadow: 1px 1px 8px 2px #dcdcdc;
 }
 
 .language{
